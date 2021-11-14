@@ -14,7 +14,6 @@
 <br />
 <br />
 <!--
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Dinesh-Das/Dinesh-Das/master/name.svg" alt="Dinesh-Das" />
 </h1>
