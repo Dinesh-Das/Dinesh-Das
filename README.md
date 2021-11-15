@@ -17,9 +17,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Dinesh-Das/Dinesh-Das/master/name.svg" alt="Dinesh-Das" />
 </h1>
-
 **Dinesh-Das/Dinesh-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - ⚡ I am Comfortable with:
       C
@@ -29,7 +27,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Technology.
 - 📫 How to reach me: dineshdas1016@gmail.com
 - 😄 Pronouns:He/Him 
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on Django Project...
@@ -38,9 +35,7 @@ Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-Das&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 Showcase Repo 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinesh-Das&repo=HackerRank)](https://github.com/Dinesh-Das/HackerRank)
-
 
 dark theme formatted repo
 ## 🗂️ Highlight Projects
@@ -53,7 +48,6 @@ dark theme formatted repo
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 -->
-
 
 - 🌱 I’m currently learning Flutter.
 - ⚡ I am Comfortable with:C, Java, Python
