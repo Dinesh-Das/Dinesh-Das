@@ -59,7 +59,7 @@ dark theme formatted repo
 
 ### 🌟 Top Language :
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Das&layout=compact&theme=tokyonight" alt="Top Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Das&layout=compact&theme=tokyonight" alt="Top Language" />
 </p>
 
 
@@ -70,7 +70,7 @@ dark theme formatted repo
 </p>
 
 <br />
-![Github Activity Graph]( https://intense-bastion-33364.herokuapp.com/graph?username=dinesh-das&theme=react-dark&hide_border=true)
+ <img width="50%" src="https://intense-bastion-33364.herokuapp.com/graph?username=dinesh-das&theme=react-dark&hide_border=true" />
 <br>
 
 
