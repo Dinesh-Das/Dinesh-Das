@@ -70,7 +70,7 @@ dark theme formatted repo
 </p>
 
 <br />
- <img width="50%" src="https://intense-bastion-33364.herokuapp.com/graph?username=dinesh-das&theme=react-dark&hide_border=true" />
+ <img  src="https://intense-bastion-33364.herokuapp.com/graph?username=dinesh-das&theme=react-dark&hide_border=true" />
 <br>
 
 
