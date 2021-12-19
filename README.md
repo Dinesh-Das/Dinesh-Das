@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World, I'm [Dinesh!](https://Dinesh-Das.github.io) 
+#  Hello Coders 🚀, I'm [Dinesh!](https://Dinesh-Das.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 <a href="https://www.instagram.com/dinesh._.das/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -70,6 +70,9 @@ dark theme formatted repo
 </p>
 
 <br />
+![Github Activity Graph]( https://intense-bastion-33364.herokuapp.com/graph?username=dinesh-das&theme=react-dark&hide_border=true)
+<br>
+
 
 ### 👨‍💻 Check out:
 <a href="https://www.hackerrank.com/dineshdas1016">
@@ -94,6 +97,7 @@ dark theme formatted repo
 <img width="48%" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
+
 
 ### Visitor Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Dinesh-Das/count.svg)
